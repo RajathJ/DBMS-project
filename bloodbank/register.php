@@ -8,7 +8,7 @@ if (isset($_SESSION['hid'])) {
 ?>
 <!DOCTYPE html>
 <html>
-<?php $title="Bloodbank | Register"; ?>
+<?php $title="SaveLife | Register"; ?>
 <?php require 'head.php'; ?>
 <body>
   <?php include 'header.php'; ?>

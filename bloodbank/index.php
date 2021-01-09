@@ -4,7 +4,7 @@
     ?>
 <!DOCTYPE html>
 <html>
-<?php $title="Bloodbank | home page"; ?>
+<?php $title="SaveLife | home page"; ?>
 <?php require 'head.php'; ?>
 <body>
     <?php require 'header.php'; ?>
@@ -93,7 +93,7 @@
                 <div class="card">
                     <div class="card-header text-center">Admin contact</div>
                     <div class="card-body">
-                        <i class="fa fa-envelope"> </i> <a > bloodbank@gmail.com</a><br><br>
+                        <i class="fa fa-envelope"> </i> <a > savelife@gmail.com</a><br><br>
                         <i class="fa fa-mobile"> </i> <a > +91 9876543210</a><br><br>
                     </div>
                 </div>

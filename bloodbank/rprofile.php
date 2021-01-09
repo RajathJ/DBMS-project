@@ -17,7 +17,7 @@ else {
 
 <!DOCTYPE html>
 <html>
-<?php $title="Bloodbank | Receiver Profile"; ?>
+<?php $title="SaveLife | Receiver Profile"; ?>
 <?php require 'head.php';?>
 <body>
 	<?php require 'header.php'; ?>
