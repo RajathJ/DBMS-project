@@ -1,6 +1,10 @@
 <?php  
  $connect = mysqli_connect("localhost", "root", "", "bloodbank");  
+<<<<<<< HEAD
  $query = "SELECT gender, count(*) as number FROM bloodrequest GROUP BY bg";  
+=======
+ $query = "SELECT gender, count(*) as number FROM bloodrequest";  
+>>>>>>> 36cc3b44a8608ce579d37f414c671682939ffda5
  $result = mysqli_query($connect, $query);  
  ?>  
  <!DOCTYPE html>  
